@@ -1,7 +1,7 @@
+import { Link } from 'react-router-dom';
 import { ReactComponent as GithubIcon } from '../../assets/img/github.svg';
 import ImgLogo from 'assets/img/opniao.png';
 import './styles.css'
-import { Link } from 'react-router-dom';
 
 function Navbar() {
     return (
