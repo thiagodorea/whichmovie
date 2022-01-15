@@ -37,10 +37,10 @@
 <div align="center">
 <!-- <img alt="tela Principal" title="telaPrincipal" src="./application/public/img/telaPrincipal.png" width="70%"/> -->
 
-![tela Principal](https://user-images.githubusercontent.com/60205208/149609679-58847d12-83c4-4735-9eb9-7244135a4777.jpg)
 
 </div>
 
+![tela Principal](https://user-images.githubusercontent.com/60205208/149609679-58847d12-83c4-4735-9eb9-7244135a4777.jpg)
 
 
 
