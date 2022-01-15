@@ -13,8 +13,8 @@ function MovieCard({ movie } : Props) {
             <img className="whichmovie-movie-card-image" src={movie.image} alt={movie.title} />
             <div className="whichmovie-card-bottom-container">
                 <h3>{movie.title}</h3>
-                <MovieScore />
-                <Link to="/form/1">
+                <MovieScore  score={movie.score} count={movie.count} />
+                <Link to={`/form/${movie.id}`}>
                     <div className="btn btn-primary whichmovie-btn">Avaliar</div>
                 </Link>
             </div>
