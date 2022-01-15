@@ -36,9 +36,9 @@
 
 <div align="center">
 <!-- <img alt="tela Principal" title="telaPrincipal" src="./application/public/img/telaPrincipal.png" width="70%"/> -->
+
 ![tela Principal](https://user-images.githubusercontent.com/60205208/149609679-58847d12-83c4-4735-9eb9-7244135a4777.jpg)
 
-<img alt="tela Principal" title="telaPrincipal" src="![Captura de tela 2022-01-15 015653](https://user-images.githubusercontent.com/60205208/149609679-58847d12-83c4-4735-9eb9-7244135a4777.jpg)" width="20%"/>
 </div>
 
 
@@ -113,5 +113,5 @@ start a aplicação pela IDE de sua escolha
 
 
 <p align="right">
-  :small_red_triangle: <a href="#customs-controle-de-acesso">Voltar ao topo</a>
+  :small_red_triangle: <a href="#movie_camera-WhichMovie">Voltar ao topo</a>
 </p>
